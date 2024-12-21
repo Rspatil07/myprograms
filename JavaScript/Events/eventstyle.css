@@ -1,0 +1,28 @@
+/* div {
+    height: 100px;
+    width: 100px;
+    color: black;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 30px;
+    margin: 30px;
+}
+
+h1      {
+    margin-left: 50px;
+    color: red;
+    text-shadow: 0.5px solid black;
+    height: 70px;
+    width: 100px;
+    border: 1px solid black;
+} */
+
+.dark   {
+    color: red;
+
+}
+
+.light   {
+    color: black;
+
+}

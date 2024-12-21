@@ -1,0 +1,38 @@
+body    {
+    color:black;
+    background-color: pink;
+}
+
+h1      {
+    color: black;
+}
+
+button  {
+    color: white;
+    background-color: black;
+}
+
+.box    {
+    height: 50px;
+    width: 100px;
+    margin: 5px;
+    border: 1px solid black;
+    text-align: center;
+    color: black;
+    background-color: peachpuff;
+}
+
+.content    {
+    color: red;
+    background-color: aqua;
+    height: 20px;
+    width: 250px;
+    border: 2px solid black;
+    text-align: center;
+    margin: 50px;
+}
+
+.newClass      {
+    background-color: yellow;
+    color: white;
+}
